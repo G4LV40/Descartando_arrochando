@@ -1,4 +1,4 @@
-# Classificador de Descarte
+# Classificador de Descarte Q CLI AWS
 
 Aplicação que identifica objetos em fotos e categoriza para descarte adequado usando visão computacional.
 
